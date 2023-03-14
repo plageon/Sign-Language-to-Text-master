@@ -1,5 +1,5 @@
 # Sign-Language-to-Text
-
+use code from https://github.com/luvk1412/Sign-Language-to-Text
 Project converts American sign language to text in realtime. It uses CNN to train the required models for prediction. The dataset is custom made.
 
 dataset : 
